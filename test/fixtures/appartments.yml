@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  appartment_type: MyString
+  state: MyString
+  rent: 1
+
+two:
+  appartment_type: MyString
+  state: MyString
+  rent: 1
